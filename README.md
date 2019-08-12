@@ -1,5 +1,3 @@
 # Simulation-Intercycle-Project
 
-<a href="">Video</a>
-
-todavia no se sube el video
+<a href="https://youtu.be/Y6ZwhpOc24k">Video</a>
